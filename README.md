@@ -20,4 +20,4 @@ I have always loved to push the boundaries of what I am capable of when it comes
 I am passionate about creating unique and stunning websites that don't follow your typical ruberic.
 I strive to learn more about the ever-evolving internet to better myself through experience.
 
-📫 How to reach me: ...elhadkimariem3@gmail.com
+📫 How to reach me: elhadkimariem3@gmail.com
