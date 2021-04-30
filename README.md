@@ -73,6 +73,11 @@ I strive to learn more about the ever-evolving internet to better myself through
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+  <code><img height="50"" src="https://cdn.svgporn.com/logos/netlify.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/sass.svg"></code>
+  <code><img height="50" src="https://cdn.svgporn.com/logos/vue.svg"></code>
   <hr>
 
 
