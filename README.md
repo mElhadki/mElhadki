@@ -30,7 +30,6 @@ I strive to learn more about the ever-evolving internet to better myself through
 	<a href="https://twitter.com/ElhadkiM"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-📫 How to reach me: elhadkimariem3@gmail.com
 
 
 <br/>
