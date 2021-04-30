@@ -81,6 +81,11 @@ I strive to learn more about the ever-evolving internet to better myself through
 
 <br/>
 
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br><br>
+  <img src="https://profile-counter.glitch.me/mElhadki/count.svg" />
+</p>
 <p>
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
