@@ -32,6 +32,10 @@ I strive to learn more about the ever-evolving internet to better myself through
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   <code><img height="50" src="https://i.postimg.cc/k5dzPBWj/t-l-chargement.jpg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
   <code><img height="50" src="https://i.postimg.cc/Y23pnwBK/images.jpg"></code>
   <code><img height="50" src="https://i.postimg.cc/63hNmCSL/t-l-chargement.png"></code>
   <code><img height="50" src="https://i.postimg.cc/7PBFJPy6/t-l-chargement-1.png"></code>
