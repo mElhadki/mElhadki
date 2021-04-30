@@ -24,6 +24,13 @@ I have always loved to push the boundaries of what I am capable of when it comes
 I am passionate about creating unique and stunning websites that don't follow your typical ruberic.
 I strive to learn more about the ever-evolving internet to better myself through experience.
 
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/mElhadki"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/melhadki/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/ElhadkiM"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
+
 📫 How to reach me: elhadkimariem3@gmail.com
 
 
