@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-	 <img  height="270px" alt="guy" width="350" src="https://s3.gifyu.com/images/gabi-d.gif" /> </a>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+	 <img  height="270px" alt="guy" width="350" src="https://s3.gifyu.com/images/eea271dac75d78fb07a737b9e08a2e41.gif" /> </a>
 </div>
 
 
