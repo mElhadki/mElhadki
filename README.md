@@ -91,10 +91,7 @@ I strive to learn more about the ever-evolving internet to better myself through
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mElhadki&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mElhadki&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
 <hr>
-  <img align="center" height="270px" alt="guy" width="350" src="https://s3.gifyu.com/images/gabi-d.gif" /> </a>
-
 </p>
 <br/>
 
