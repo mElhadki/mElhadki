@@ -98,11 +98,9 @@ I strive to learn more about the ever-evolving internet to better myself through
 </p>
 <br/>
 
-
------
 Credits: [mElhadki](https://github.com/mElhadki)
 
-Last Edited on: 03/09/2020
+Last Edited on: 30/04/2021
 
 
 <p>
