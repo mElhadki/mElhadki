@@ -25,9 +25,9 @@ I strive to learn more about the ever-evolving internet to better myself through
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/mElhadki"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/melhadki/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/ElhadkiM"><img src="https://11jours.fr/wp-content/uploads/2022/07/twitter-circled.png" alt="Twitter"/></a>
+	<a href="https://github.com/mElhadki"><img style="width: 6%;" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/melhadki/"><img style="width: 6%;" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/ElhadkiM"><img style="width: 6%;" src="https://11jours.fr/wp-content/uploads/2022/07/twitter-circled.png" alt="Twitter"/></a>
 </p>
 
 
