@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-	 <img  height="270px" alt="guy" width="350" src="https://s3.gifyu.com/images/eea271dac75d78fb07a737b9e08a2e41.gif" /> </a>
+	 <img  height="270px" alt="guy" width="350" src="https://11jours.fr/wp-content/uploads/2022/07/337c3951853579.58fc76482621b.gif" /> 
 </div>
 
 
@@ -27,7 +27,7 @@ I strive to learn more about the ever-evolving internet to better myself through
 <p align="center">
 	<a href="https://github.com/mElhadki"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/melhadki/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/ElhadkiM"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/ElhadkiM"><img src="https://11jours.fr/wp-content/uploads/2022/07/twitter-circled.png" alt="Twitter"/></a>
 </p>
 
 
